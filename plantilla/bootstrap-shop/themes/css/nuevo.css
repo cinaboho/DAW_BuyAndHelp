@@ -1,0 +1,29 @@
+/*Esta hoja sirve para agregar cambios de estilo. No modificar base.css*/
+.navbar-inner{
+	background-image: linear-gradient(#52575C, #3A3F44 70%, #3A3F44);
+	align-content: center;
+}
+
+.carousel .item{
+	transition: 6s;
+}
+
+/*.navbar .brand{
+	display: block;
+	width: 100%;
+	text-align: center;
+}*/
+
+/*body{
+	background-image: url("../images/fondo1.jpg");
+	background-color: black;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}*/
+
+#productos_index,#footerSection,#mascotas_index,#sidebar, #bolsillos_index {
+	/*border-style: solid;
+	border-color: black;
+	border-width: thin;*/
+}
